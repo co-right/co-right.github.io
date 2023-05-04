@@ -1,1 +1,0 @@
-# co-right.github.io

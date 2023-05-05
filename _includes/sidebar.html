@@ -11,13 +11,15 @@
 	{%- endif -%}
 </div>
 
+
 <div class="sidebar-item sidebar-nav">
 	<ul class="nav">
-      <li class="nav-title">Pages</li>
-	  <li>
-	  	<a class="nav-item" href="/">Articles</a>
-	  </li>
-	  {% assign pages_list = site.pages %}
+
+
+      <li class="nav-title">Daily</li>
+	  
+
+	 {% assign pages_list = site.pages %}
 	  {% for node in pages_list %}
 	    {% if node.title != null %}
 	      {% if node.layout == "page" %}
@@ -29,12 +31,36 @@
 	      {% endif %}
 	    {% endif %}
 	  {% endfor %}
+	 
+	</ul>
+</div>
+
+
+<div class="sidebar-item sidebar-nav">
+	<ul class="nav">
+
+
+
+      <li class="nav-title">Business</li>
+	  <li>
+	  	<a class="nav-item" href="/">General</a>
+	  </li>
+
+	<li>
+	  	<a class="nav-item" href="/">Macro Econ</a>
+	  </li>
+
+	<li>
+	  	<a class="nav-item" href="/">Law</a>
+	  </li>
+
+	 
 	</ul>
 </div>
 
 <div class="sidebar-item sidebar-nav">
   	<ul class="nav">
-			<li class="nav-title">Categories</li>
+			<li class="nav-title">Coding</li>
 	    {% for category in site.categories %}
 	    <li>
 	    	<a class="nav-item" href="{{ root_url }}/{{ site.category_dir }}#{{ category | first }}">
@@ -48,5 +74,6 @@
 </div>
 
 <div class="sidebar-item sidebar-footer">
-	<p>Powered by <a href="https://github.com/jekyll/jekyll">Jekyll</a></p>
+	<!--<p>Powered by <a href="https://github.com/jekyll/jekyll">Jekyll</a></p>-->
+	<p><a href="https://github.com/co-right">My github : github.com/co-right</a></p>
 </div>

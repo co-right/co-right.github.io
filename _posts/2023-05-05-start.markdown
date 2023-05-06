@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 태초의 글
-date: 2023-05-06
+date: 2023-05-05
 categories: shorts
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "My own test post"
-date: 2023-05-05 19:31:29 +0900
+title: "post sample 2"
+date: 2023-05-01 19:31:29 +0900
 categories: jekyll update
 ---
 

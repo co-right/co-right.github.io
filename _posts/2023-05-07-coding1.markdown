@@ -1,0 +1,12 @@
+---
+layout: post
+title: github를 참고해주세요
+date: 2023-05-07 00:10:00 +0900
+categories: coding
+---
+
+<p>
+
+Coding 카테고리는 아직 포스팅 계획이 없읍니다. <a href="http://github.com/co-right" target="_blank">제 github 페이지</a>를 참고해주세요.
+
+</p>

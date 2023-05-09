@@ -1,0 +1,144 @@
+---
+layout: post
+title: ☆★ 직무면접 총정리 ★☆
+date: 2023-05-09 19:24:00 +0900
+categories: business
+---
+
+<p>
+<span style="font-weight:bolder">원가회계 이거 끝나고 => 관리회계 남은 부분(전략적 관리회계는 진짜 최중요개념만 정리하자.) => 재무회계</span><br/>
+<span style="font-weight:bolder">재무회계 개념 총정리 하고나서 계획대로 진행하자.</span><br/>
+<span style="font-weight:bolder">크몽에서 구입한 자료를 먼저 반영한 후 시작해보자.</span><br/>
+<br/><br/>
+<span style="font-weight:bolder">4. 수익의 인식</span>
+<br/><br/>
+
+<span style="font-weight:bolder">5. 현금 및 현금성자산과 수취채권</span>
+<br/><br/>
+Q 대손충당금이란 무엇인가?
+<br/><br/>
+매출채권, 미수금 등 채권에 대한 공제의 형식으로 계산되는 회수불능위험 추산액입니다. 회수불능 추산액을 표시함으로써 채권의 실질 평가액을 나타내고, 실제 대손이 발생했을 때 채권을 이 계정과 대체하여 공제합니다.
+<br/><br/>
+
+<span style="font-weight:bolder">6. 재고자산</span>
+<br/><br/>
+Q 제품과 상품의 차이
+<br/><br/>
+제품은 회사가 원자재를 구매하고 생산공정을 통해 가공, 조립하여 제조한 완성품 / 상품은 판매하고자 하는 물품을 외부 거래처로부터 구매하여 일정 마진만 더하여 바로 고객에 판매하는 것
+<br/><br/>
+Q 제조원가와 매출원가의 차이
+<br/><br/>
+제조원가는 생산된 제품을 위하여 소요된 원가의 집계액, 매출원가는 기업의 영업활동에서 영업수익을 올리는데 필요한 비용을 말한다.
+<br/><br/>
+당기총제조원가:직접재료비,직접노무비+제조간접비
+<br/><br/>
+당기제품제조원가:기초재공품+당기총제조원가-기말재공품
+<br/><br/>
+매출원가:기초제품+당기제품제조원가-기말제품
+<br/><br/>
+
+<span style="font-weight:bolder">7. 유형자산과 투자부동산</span>
+<br/><br/>
+Q 감가상각을 하는 이유
+<br/><br/>
+감가상각이란 수익과 비용의 적절한 대응을 위해, 자산의 내용연수에 걸쳐 자산 사용으로 창출된 수익에 비용을 대응시킴으로써 자산의 원가를 체계적으로 배분하는 과정. 기업의 경제자산인 건물, 기계, 설비 등 고정자산의 대부분은 기업의 수익활동에 계속 사용되는 결과, 시일의 경과에 따라 자본가치가 점점 소모되므로 그 소모되는 가치는 그에 해당하는 부분만큼 매년 비용으로 계산하게 됩니다.
+<br/><br/>
+Q 수익비용대응원칙?
+<br/><br/>
+비용을 그 비용으로 인한 수익이 인식되는 기간과 동일한 기간에 인식해야 한다는 원칙
+<br/><br/>
+Q 유형자산과 투자부동산의 차이는?
+<br/><br/>
+유형자산은 원가모형이나 재평가모형, 투자부동산은 원가모형이나 공정가치모형으로 취득 후 측정합니다. 투자부동산은 공정가치모형 사용시 감가상각을 하지 않습니다. 투자부동산은 공정가치모형 적용시 매기간 말에 공정가치로 재측정하고 공정가치 변동을 당기손익으로 인식하여 감가상각하지 않기 때문에 재무제표상 표시는 물론 순자산과 이익에도 영향을 미칩니다.
+<br/><br/>
+
+<span style="font-weight:bolder">8. 차입원가의 자본화</span>
+<br/><br/>
+
+<span style="font-weight:bolder">9. 무형자산과 기타자산</span>
+<br/><br/>
+
+<span style="font-weight:bolder">10. 금융부채와 사채</span>
+<br/><br/>
+
+<span style="font-weight:bolder">11. 충당부채와 종업원급여</span>
+<br/><br/>
+
+<span style="font-weight:bolder">12. 자본</span>
+<br/><br/>
+
+<span style="font-weight:bolder">13. 투자목적 금융자산</span>
+<br/><br/>
+
+<span style="font-weight:bolder">14. 관계기업과 공동기업투자</span>
+<br/><br/>
+
+<span style="font-weight:bolder">15. 복합금융상품</span>
+<br/><br/>
+Q 신주인수권부사채와 전환 사채 차이
+<br/><br/>
+전환사채는 주식전환권을 행사할 경우 사전에 정한 전환가격으로 신주를 구매할 수 있습니다. 사채원금을 신주대금으로 자동 납입하기 때문에 사채권이 소멸되어 이자비용이 발생하지 않습니다.
+<br/>
+신주인수권부채는 사채와 신주를 취득할 수 있는 권리로 행사했을 때 사채권을 유지하면서 신주대금을 따로 납입하게 되어 이자비용이 발생합니다.
+<br/>
+전환사채를 발행한다는 건 기업이 재무적으로 힘든 상태에 있음을 알 수 있습니다. 싼 이자로 돈을 빌리고 기업가치가 좋아지면 주식으로 바뀌니 기업가치를 남들보다 싸게 얻을 수 있습니다.
+<br/><br/>
+
+<span style="font-weight:bolder">16. 주식기준보상거래</span>
+<br/><br/>
+
+<span style="font-weight:bolder">17. 주당이익</span>
+<br/><br/>
+
+<span style="font-weight:bolder">18. 리스</span>
+<br/><br/>
+
+<span style="font-weight:bolder">19. 법인세회계</span>
+<br/><br/>
+
+<span style="font-weight:bolder">20. 회계변경과 오류수정</span>
+<br/><br/>
+
+<span style="font-weight:bolder">21. 현금흐름표</span>
+<br/><br/>
+
+<span style="font-weight:bolder">22. 재무회계 기타사항(매각예정비유동자산과 중단영업, 재무비율분석, 중간재무보고)</span>
+<br/><br/>
+Q 회사의 재무비율에 대해 말해보라
+<br/><br/>
+
+<span style="font-weight:bolder">23. 환율변동회계와 파생상품</span>
+<br/><br/>
+
+<span style="font-weight:bolder">24. 사업결합과 합병회계</span>
+<br/><br/>
+Q 합병, 연결, 지분법 등에서 주식 회계처리?
+<br/><br/>
+
+<span style="font-weight:bolder">25. 연결회계</span>
+<br/><br/>
+
+- 기타
+  <br/><br/>
+  Q 재무제표란 무엇인가? 구성요소에 대해 아는가?
+  <br/><br/>
+  재무제표란 기업의 경영에 따른 재무상태를 파악하기 위해, 회계원칙에 따라 표시한 재무 보고서. 목적 : 투자 및 신용의사결정, 미래현금흐름 예측, 재무상태/경영성과/현금흐름/자본변동, 수탁책임 평가
+  <br/><br/>
+  Q 거래의 8요소?
+  <br/><br/>
+  Q 자본적 지출과 수익적 지출 차이
+  <br/><br/>
+  자본적 지출은 고정자산에 관한 지출 중 고정자산의 가치를 증가, 가용연수를 증가/고정자산의 가치를 보전하는 데 그치는 지출은 소비적 경비. 자본적 지출은 자산, 수익적 지출은 수선비 등 비용 계상
+  <br/><br/>
+  Q 부채와 비용의 차이점
+  <br/><br/>
+  부채는 과거사건에 의해 발생했으며 경제적 효익을 갖는 자원이 기업으로 유출되므로써 이행될 것으로 기대되는 현재의무로 재무상태표에 반영됩니다. 비용은 자산유출, 부채증가로 인해 자본감소를 초래하는 특정 회계기간 동안 발생한 경제적 효익의 감소를 뜻하며 손익계산서에 반영됩니다.
+  <br/><br/>
+
+<span style="font-weight:bolder">세무회계</span>
+
+<span style="font-weight:bolder">재무관리</span>
+
+<span style="font-weight:bolder">원가관리회계</span>
+
+</p>

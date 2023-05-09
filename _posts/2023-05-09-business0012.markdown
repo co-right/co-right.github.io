@@ -1,0 +1,14 @@
+---
+layout: post
+title: 원가회계1-제품원가계산(完)
+date: 2023-05-09 10:24:00 +0900
+categories: business
+---
+
+<p>
+<span style="font-weight:bolder">원가회계 이거 끝나고 => 관리회계 남은 부분(전략적 관리회계는 진짜 최중요개념만 정리하자.) => 재무회계</span><br/>
+<span style="font-weight:bolder">원가회계 : 기초 -> 제품원가계산</span><br/>
+인이 박히도록 했기 때문에 기초 개념들 외울 것들만 정리하고 간다.
+<br/><br/>
+
+</p>

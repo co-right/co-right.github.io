@@ -1,0 +1,12 @@
+---
+layout: post
+title: 재무회계 1~5
+date: 2023-05-14 19:25:00 +0900
+categories: business
+---
+
+<p>
+<span style="font-weight:bolder">재무회계 1~5단원 시작한다. 5개 단원씩 5일간 정리한다. 직무면접은 직무면접대로 학습은 학습대로 ㄱㄱ</span><br/>
+<br/><br/>
+
+</p>

@@ -1,14 +1,14 @@
 ---
 layout: post
 title: ☆★ 직무면접 총정리 ★☆
-date: 2023-05-10 09:24:00 +0900
+date: 2023-05-14 09:24:00 +0900
 categories: business
 ---
 
 <p>
-<span style="font-weight:bolder">원가회계 이거 끝나고 => 관리회계 남은 부분(전략적 관리회계는 진짜 최중요개념만 정리하자.) => 재무회계</span><br/>
-<span style="font-weight:bolder">재무회계 개념 총정리 하고나서 계획대로 진행하자.</span><br/>
-<span style="font-weight:bolder">크몽에서 구입한 자료를 먼저 반영한 후 시작해보자.</span><br/>
+<span style="font-weight:bolder">5월 10일에 최초 글을 썼다. 이 글은 지속적으로 개정을 한다. 나중에 코드좀 손봐야겠다. 개정한 시간 전부 반영하도록</span><br/><br/>
+<span style="font-weight:bolder">재무회계 중심 -> 세무회계, 원가회계, 재무관리</span><br/><br/>
+<span style="font-weight:bolder">난 재무관리가 가장 자신 있는데 ㅋㅋ 내가 자신 있는 순서 역방향으로 중요한거 같더라. 역방향 까진 아니구나 재무회계 사랑합니다 ㅎㅎㅎ 꿀잼 아니 잠만 나 원가관리도 좋아하는데... 그렇다면? ㄷㄷㄷ.. 세무회계? ㅋㅋㅋㅋ... 자자 중요성 기준에서(ㅋ) 왜곡이 발생하지 않도록 모든 과목 열심히 하자!</span><br/>
 <br/><br/>
 <span style="font-weight:bolder">4. 수익의 인식</span>
 <br/><br/>
